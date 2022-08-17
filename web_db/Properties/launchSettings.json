@@ -1,4 +1,4 @@
-﻿{
+{
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
@@ -10,9 +10,8 @@
   "profiles": {
     "web_db": {
       "commandName": "Project",
-      "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7257;http://localhost:5150",
+      "applicationUrl": "http://localhost:11321",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -26,5 +25,3 @@
     }
   }
 }
-
-
